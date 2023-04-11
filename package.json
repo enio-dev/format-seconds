@@ -1,0 +1,15 @@
+{
+  "name": "format-seconds",
+  "author": "enio-dev",
+  "license": "ISC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
